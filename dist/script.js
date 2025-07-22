@@ -30,11 +30,11 @@ $(function () {
   ];
   const albumArtworks = ["_1", "_2", "_3", "_4", "_5"];
   const trackUrl = [
-    "https://github.com/chaezzeu/notionplayer/blob/main/Baek%20Yerin%20%EC%82%B0%EC%B1%85%20(A%20Walk).mp3",
-    "https://github.com/chaezzeu/notionplayer/blob/main/Yerin%20Baek%20-%200310%20%5B128%20kbps%5D.mp3",
-    "https://github.com/chaezzeu/notionplayer/blob/main/Baek%20Yerin%20Our%20love%20is%20great.mp33",
-    "https://github.com/chaezzeu/notionplayer/blob/main/Baek%20Yerin%20You%60re%20so%20lonely%20now%2C%20so%20you%20need%20me%20back%20by%20your%20side%20again.mp3",
-    "https://github.com/chaezzeu/notionplayer/blob/main/Yerin%20Baek%20-%201-4-3.mp3"
+    "https://github.com/chaezzeu/notionplayer/blob/main/1.mp3",
+    "https://github.com/chaezzeu/notionplayer/blob/main/2.mp3",
+    "https://github.com/chaezzeu/notionplayer/blob/main/3.mp3",
+    "https://github.com/chaezzeu/notionplayer/blob/main/4.mp3",
+    "https://github.com/chaezzeu/notionplayer/blob/main/5.mp3"
   ];
 
   let bgArtworkUrl,
